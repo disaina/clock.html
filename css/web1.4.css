@@ -1,0 +1,11 @@
+span{
+    float:left;
+	width:1.2em;
+	font-size:200%;
+	font-family:隶书;
+}
+#text_line
+{
+	clear:both;
+	margin-bottom:2px;
+}
